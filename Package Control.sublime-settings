@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Angular 2 Snippets (John Papa)",
+		"AutoPEP8",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"EditorConfig",
+		"Emmet",
+		"JavaScript & NodeJS Snippets",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"TerminalView",
+		"TypeScript"
+	]
+}

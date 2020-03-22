@@ -1,0 +1,5 @@
+[
+  {"keys": ["ctrl+k","ctrl+t"], "command": "terminal_view_open"},
+  { "keys": ["ctrl+shift+c"], "command": "toggle_comment", "args": { "block": false } }
+
+]

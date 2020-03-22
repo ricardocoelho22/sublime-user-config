@@ -1,0 +1,19 @@
+[
+	{"id": "side-bar-files-open-with",
+		"children":
+		[
+
+			{
+				"caption": "Terminal",
+				"command": "side_bar_files_open_with",
+				"args": {
+					"paths": [],
+					"application": "gnome-terminal",
+					"extensions":"",
+					"args":["--working-directory=$DIRNAME"]
+				},
+				"open_automatically" : false
+			}
+		]
+	}
+]
